@@ -1,0 +1,21 @@
+
+
+html{
+    background-color: skyblue;
+}
+h1{
+    color: white;
+}
+a:link {
+    background: white ;
+    color: burlywood;
+    padding :20px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border:2px solid purple
+  }
+
+  .video{
+    width: 70px;
+  }
